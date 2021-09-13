@@ -1,4 +1,4 @@
-baseURL = "https://learncloudassembly.github.io"
+baseURL = "https://learnorchestrator.github.io"
 languageCode = "en-gb"
 title = "Learn vRealize Orchestrator"
 theme = "hugo-theme-techdoc"
@@ -12,7 +12,7 @@ enableGitInfo = true
     logo = "/images/orchestrator-tile.png"
 
     # Source Code repository section
-    description = "Part of VMware vRealize"
+    description = "Part of VMware vRealize Automation"
     # github_repository = "https://github.com/cmbu-tmm-sites/learnorchestrator"
 
     # Documentation repository section
@@ -29,7 +29,7 @@ enableGitInfo = true
     # Open Graph settings for each page are set on the front matter.
     # See https://gohugo.io/templates/internal/#open-graph
     # See https://gohugo.io/templates/internal/#twitter-cards
-    title = "Hugo Techdoc Theme"
+    title = "Learn vRealize Orchestrator"
     images = ["images/og-image.png"] # Open graph images are placed in `static/images`
 
     # Theme settings section
