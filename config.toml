@@ -1,6 +1,6 @@
 baseURL = "https://learncloudassembly.github.io"
 languageCode = "en-gb"
-title = "Learn Cloud Assembly"
+title = "Learn vRealize Orchestrator"
 theme = "hugo-theme-techdoc"
 # Required to get well formatted code blocks
 pygmentsUseClasses = true
@@ -9,15 +9,15 @@ disablePathToLower = true
 enableGitInfo = true
 
 [params]
-    logo = "/images/cloud-assembly.png"
+    logo = "/images/orchestrator-tile.png"
 
     # Source Code repository section
-    description = "put your description"
-    # github_repository = "https://github.com/learncodestream/learncodestream"
+    description = "Part of VMware vRealize"
+    # github_repository = "https://github.com/cmbu-tmm-sites/learnorchestrator"
 
     # Documentation repository section
     # documentation repository (set edit link to documentation repository)
-    github_doc_repository = "https://github.com/learncodestream/learncodestream"
+    github_doc_repository = "https://github.com/cmbu-tmm-sites/learnorchestrator"
     github_doc_branch = "main"
 
     # Analytic section
@@ -66,14 +66,11 @@ enableGitInfo = true
 # Global menu section
 # See https://gohugo.io/content-management/menus/
 # [menu]
-#     [[menu.main]]
-#         name = "Home"
-#         url = "/"
-#         weight = 1
-#     [[menu.main]]
-#         name = "Getting Started"
-#         url = "/Getting-Started/"
-#         weight = 2
+    [[menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
+
 
 # Markup configure section
 # See https://gohugo.io/getting-started/configuration-markup/
