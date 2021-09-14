@@ -70,7 +70,10 @@ enableGitInfo = true
         name = "Home"
         url = "/"
         weight = 1
-
+    [[menu.main]]
+        name = "Plug-Ins"
+        url = "/plugins"
+        weight = 2
 
 # Markup configure section
 # See https://gohugo.io/getting-started/configuration-markup/
