@@ -3,14 +3,13 @@ title: "API Explorer"
 weight: 35
 ---
 
-You can display a range of alerts information, provided by the associated [vRealize Operations Manager](https://docs.vmware.com/en/vRealize-Operations-Manager/index.html) application, for vSphere and [VMware Cloud on AWS](https://www.vmware.com/products/vmc-on-aws.html) resource objects.<br> 
-Use that information to make adjustments to resources and deployments that you manage or share that information with your team so that they can adjustment their resources. 
+You can use the [vRealize Orchestrator](https://www.vmware.com/products/vrealize-orchestrator.html) API Explorer as an in-product reference guide to JavaScript objects exposed by the [vRealize Orchestrator](https://www.vmware.com/products/vrealize-orchestrator.html) and all installed plug-ins.
 
-{{< img src="/Alerts/alerts-top.png" alt="Alerts View" >}}
+You can consult an online version of the Scripting API for the [vRealize Orchestrator](https://www.vmware.com/products/vrealize-orchestrator.html) plug-ins on the [vRealize Orchestrator](https://www.vmware.com/products/vrealize-orchestrator.html) documentation home page.
 
-Alerts are currently available for vSphere and [VMware Cloud on AWS](https://www.vmware.com/products/vmc-on-aws.html) resource objects only. The Alerts tab is only available if access to vRealize Operations Manager is configured.
+{{< img src="/API-Explorer/api-explorer.png" alt="API Explorer" >}}
 
-The [vRealize Automation](https://www.vmware.com/products/vrealize-automation.html) alerts threshold values are set in [vRealize Operations Manager](https://docs.vmware.com/en/vRealize-Operations-Manager/index.html). 
-Some [vRealize Automation](https://www.vmware.com/products/vrealize-automation.html) alerts are currently predefined.<br>
-Alerts notifications are also set in [vRealize Operations Manager](https://docs.vmware.com/en/vRealize-Operations-Manager/index.html).<br>
-For information about setting alert definitions and configuring notifications, see [vRealize Operations Manager](https://docs.vmware.com/en/vRealize-Operations-Manager/index.html).
+You can use API Explorer to search all the objects and functions of the vRealize Orchestrator API.
+
+Note:
+The [vRealize Orchestrator](https://www.vmware.com/products/vrealize-orchestrator.html) Client communicates with the [vRealize Orchestrator](https://www.vmware.com/products/vrealize-orchestrator.html) REST API through a REST proxy.
