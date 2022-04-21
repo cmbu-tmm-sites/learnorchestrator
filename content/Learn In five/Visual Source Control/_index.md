@@ -1,12 +1,12 @@
 ---
-title: "Debug Actions"
-weight: 5
+title: "Visual Differences and Source Control Enhancement"
+weight: 10
 ---
 
-{{< img src="/Learn-In-five/Debug-Actions/debug_actions.png" >}}
+{{< img src="/Learn-In-five/Visual-Source-Control/vdsce.png" >}}
 
 
-Learn more about [Debug Actions in the vRealize Orchestrator Client](https://docs.vmware.com/en/vRealize-Orchestrator/8.8/com.vmware.vrealize.orchestrator-using-client-guide.doc/GUID-AD4CA94E-3557-4445-986A-CD27A898C70B.html)
+Learn more about [Visual Comparison Between Workflow Versions](https://docs.vmware.com/en/vRealize-Orchestrator/8.7/com.vmware.vrealize.orchestrator-using-client-guide.doc/GUID-8721F183-FEB2-43A8-A3DD-FEE66E6324A4.html)
 
 Try it out in your lab or [vRealize Automation Cloud Trial](https://www.vmware.com/products/vrealize-automation.html)
 
